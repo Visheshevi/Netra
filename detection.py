@@ -76,7 +76,7 @@ class_ids = []
 confidences = []
 boxes = []
 conf_threshold = 0.5
-nms_threshold = 0.4
+nms_threshold = 0.3
 
 # for each detetion from each output layer 
 # get the confidence, class id, bounding box params
